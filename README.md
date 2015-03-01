@@ -7,4 +7,4 @@ Questions
 2. Which country has improved its safety the most over the past 10 years?
 3. Where does Canada rank in terms of motorcyclist safety?
 4. As of 2008, which country is considered the most dangerous for 2-wheelers?
-5. How much safer are the 10 safest countries vs the most dangerous?
+5. On average, how much safer are the 10 safest countries vs the most dangerous?
