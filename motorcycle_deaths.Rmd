@@ -1,0 +1,19 @@
+---title: "Worldwide Motorcycle deaths (per 100,000 people)"
+author: "Jas Sohi"
+date: "Saturday, February 28, 2015"
+output: html_document
+---
+
+Let's start off with loading the dataset which was downloaded from the [Gapminder website.](http://www.gapminder.org/data/)
+
+```{r}
+mc <- read.csv()
+```
+
+You can also embed plots, for example:
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
