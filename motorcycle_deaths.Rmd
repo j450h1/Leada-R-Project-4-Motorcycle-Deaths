@@ -2,7 +2,7 @@
 title: "Worldwide Motorcycle deaths (per 100,000)"
 author: "Jas Sohi - www.jassohi.com"
 date: "Thursday, March 5, 2015"
-output: html_document
+output: pdf_document
 ---
 ###Load the data
 

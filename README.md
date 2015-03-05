@@ -11,6 +11,6 @@ Questions
 
 ANSWERS:
 
-See motorcycle_deaths.html
+See motorcycle_deaths.pdf for report and motorcycle_deaths.Rmd for all the code.
 
 
